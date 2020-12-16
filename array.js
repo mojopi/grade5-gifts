@@ -1,7 +1,7 @@
 var bigArray = [
 
 
-{
+    {
         name: "stephanie",
         presentPictureUrl: "stephanie/stephanie.jpg",
         audioUrl: "stephanie/stephanie.m4a"
@@ -14,7 +14,7 @@ var bigArray = [
     },
 
 
- {
+    {
         name: "alexaG",
         presentPictureUrl: "alexaG/alexaG.png",
         audioUrl: "ada/ada.m4a"
@@ -22,7 +22,7 @@ var bigArray = [
 
 
 
- {
+    {
         name: "arianne",
         presentPictureUrl: "arianne/arianne.png",
         audioUrl: "arianne/arianne.m4a"
@@ -65,27 +65,27 @@ var bigArray = [
     },
 
 
- {
+    {
         name: "laila",
         presentPictureUrl: "laila/laila.png",
         audioUrl: "laila/laila.m4a"
     },
 
-     {
+    {
         name: "leon",
         presentPictureUrl: "leon/leon.png",
         audioUrl: "leon/leon.m4a"
     },
 
 
-     {
+    {
         name: "noa",
         presentPictureUrl: "noa/noa.jpg",
         audioUrl: "noa/noa.m4a"
     },
 
 
-     {
+    {
         name: "sanna",
         presentPictureUrl: "sanna/sanna.jpg",
         audioUrl: "sanna/sanna.m4a"
@@ -93,22 +93,41 @@ var bigArray = [
 
 
 
-     {
+    {
         name: "shelby",
         presentPictureUrl: "shelby/shelby.png",
         audioUrl: "shelby/shelby.m4a"
     },
 
+    {
+        name: "nathan",
+        presentPictureUrl: "nathan/nathan.jpg"
+    },
+
+    {
+        name: "maiya",
+        presentPictureUrl: "maiya/maiya.png",
+        audioUrl: "maiya/maiya.m4a"
+
+    },
+
+    {
+        name: "taylor",
+        presentPictureUrl: "taylor/taylor.jpg",
+        audioUrl: "taylor/taylor.m4a"
+
+    },
 
 
- {
+
+    {
         name: "ada",
         presentPictureUrl: "ada/ada.jpg",
         audioUrl: "ada/ada.m4a"
     },
 
 
-    
+
 
 
 
@@ -120,7 +139,7 @@ var section3 = document.getElementById('section3');
 
 function makeSquare(x) {
     var link = document.createElement('a');
-    link.href = "./names/" + bigArray[x].name + "/" + bigArray[x].name +".html";
+    link.href = "./names/" + bigArray[x].name + "/" + bigArray[x].name + ".html";
     section3.appendChild(link);
 
 
@@ -160,18 +179,18 @@ function makeSquare(x) {
 
 
 
-//     var count=0;
+    //     var count=0;
 
-//     square.addEventListener('click', function() {
-//         count = count+1;
-//     if (count % 2 == 1) {square.style.backgroundImage = "url(./species/" + bigArray[x].absentPictureUrl + ")";} 
-//     else if (count % 2 == 0) {
-//          square.style.trasition="2s";
-//          square.style.backgroundImage = "url(./species/" + bigArray[x].presentPictureUrl + ")";
+    //     square.addEventListener('click', function() {
+    //         count = count+1;
+    //     if (count % 2 == 1) {square.style.backgroundImage = "url(./species/" + bigArray[x].absentPictureUrl + ")";} 
+    //     else if (count % 2 == 0) {
+    //          square.style.trasition="2s";
+    //          square.style.backgroundImage = "url(./species/" + bigArray[x].presentPictureUrl + ")";
 
-// }});
+    // }});
 
 };
 
 
-    for (var i = 0; i < 100; i++) { makeSquare(i); }
+for (var i = 0; i < 100; i++) { makeSquare(i); }
