@@ -86,9 +86,9 @@ var bigArray = [
 
 
     {
-        name: "sanna",
-        presentPictureUrl: "sanna/sanna.jpg",
-        audioUrl: "sanna/sanna.m4a"
+        name: "sanaa",
+        presentPictureUrl: "sanaa/sanaa.jpg",
+        audioUrl: "sanaa/sanaa.m4a"
     },
 
 
@@ -119,9 +119,28 @@ var bigArray = [
     },
 
 
+ {
+        name: "aria",
+        presentPictureUrl: "aria/aria.jpg",
+        audioUrl: "aria/aria.m4a"
+
+    },
+
+     {
+        name: "dylan",
+        presentPictureUrl: "dylan/dylan.png",
+        audioUrl: "dylan/dylan.m4a"
+    },
+
+
+ {
+        name: "kate",
+        presentPictureUrl: "kate/kate.png"
+    },
+
 
     {
-        name: "ada",
+        name: "dylan",
         presentPictureUrl: "ada/ada.jpg",
         audioUrl: "ada/ada.m4a"
     },
