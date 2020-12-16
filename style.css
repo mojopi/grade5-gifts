@@ -1,0 +1,333 @@
+body {
+    margin: 0;
+
+}
+
+h1 {
+    /*font-family: 'Chelsea Market', cursive;*/
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3.5vw;
+    color: black;
+    font-family: 'Special Elite', cursive;
+
+    /*            color:darkgrey;
+*/
+}
+
+p {
+    font-family: 'Special Elite', cursive;
+    ;
+    font-size: 1.8vw;
+    color: #404040;
+}
+
+section {
+    position: absolute;
+    width: 100%;
+}
+
+.tableOfContents {
+    text-align: center;
+    /*    background-color:purple;
+*/
+    display: inline-block;
+    position: relative;
+    font-family: 'Special Elite', cursive;
+    ;
+    font-size: .9vw;
+    width: 5vw;
+    color: #404040;
+    margin-right: 6px;
+
+    margin-bottom: 9px;
+}
+
+#section1 {
+    padding: 5%;
+    width: 90%;
+    background-color: white;
+    top: 100%;
+    height: 100%;
+}
+
+
+
+#section0 {
+    color: white;
+/*    background-image: url(./species/humansUru/humansUru1.png);
+*/    background-size: cover;
+    background-position: 0 -150px;
+    background-repeat: no-repeat;
+    height: 100%;
+    top: 0%;
+    animation-name: fade;
+    animation-duration: 30s;
+    transition: 0.5s;
+    animation-iteration-count: infinite;
+
+
+}
+
+/*@keyframes fade {
+    0% {
+        background-image: url(./species/humansUru/humansUru1.png);
+
+
+    }
+
+    50% {
+        background-image: url(./species/humansUru/humansUru2.png);
+
+
+    }
+
+    100% {
+        background-image: url(./species/humansUru/humansUru1.png);
+
+    }
+}
+*/
+
+
+
+#section2 {
+    top: 309%;
+    height: 1200%;
+    background-image: url(sky-1.png);
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+
+
+
+
+.square {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    /*    background-color:blue;
+*/
+    display: inline-block;
+    margin: 10px;
+    background-repeat: no-repeat;
+    border: 1px;
+    /*                        background-color:green;
+*/
+    transition: 2s;
+    background-size: contain;
+
+
+}
+
+.title {
+    /*    background-color:yellow;
+*/
+    position: relative;
+    margin-bottom: 300px;
+    top: -15%;
+    width: 100%;
+    height: 100px;
+    font-family: 'Special Elite', cursive;
+    ;
+    font-size: 1.8vw;
+    color: #404040;
+    text-align: center;
+
+}
+
+
+
+
+
+
+.container {
+    transition: 3s;
+    position: absolute;
+    top: 0%;
+    width: 50%;
+    height: 100%;
+    background-image: url(book2.png);
+    background-size: cover;
+    border-radius: 10%;
+    border: 3px solid gold;
+
+    /*    border: 1px solid red;
+*/
+    display: inline-block;
+    position: absolute;
+}
+
+#container1 {
+    /*    background-color:white;
+*/
+    padding: 2%;
+    width: 50%;
+    height: 90%;
+    left: 0%;
+}
+
+#container2 {
+    width: 50%;
+
+    left: 54%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#picture {
+    transition: 2s;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+
+
+#book {
+
+    width: 80%;
+    height: 80%;
+    /*        background-color: red;
+*/
+    position: relative;
+    top: 0%;
+    left: 50px;
+    /*    background-image: url("./book.png");
+*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+
+}
+
+
+
+#mehela {
+    z-index: 1;
+    position: absolute;
+    border: none;
+    background-image: url("./mehela.png");
+    background-size: contain;
+    width: 500px;
+    height: 30vh;
+    background-repeat: no-repeat;
+    /*        background-color: blue;
+*/
+    position: absolute;
+    /*    top: 63%;
+*/
+    left: 42%;
+    bottom: 0%;
+    /*background-color:red;
+*/
+}
+
+#heading {
+    width: 100%;
+    /*        background-color: blue;
+*/
+    z-index: 1;
+    font-size: 1.8vw;
+    font-family: 'Cutive Mono', monospace;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+
+
+
+}
+
+
+
+
+
+
+#bookTitle{
+    position:relative;
+        top:-3%;
+    }
+
+
+
+@media (max-device-width: 667px) {
+    section {
+        width: 100%;
+        height: 100%;
+    }
+
+    #section0 {
+        background-position: -250px;
+    }
+
+    #section1 {
+        padding: 5%;
+    }
+
+    #section3 {
+        width: 84%;
+        padding: 8%;
+    }
+
+    .title {
+        font-size: 3.5vw;
+        height: 200px;
+    }
+
+    #bookTitle{
+        top:-2%;
+    }
+
+    p {
+        font-size: 3vw;
+    }
+
+    #heading {
+        font-size: 40px;
+    }
+
+    #mehela {
+        position: absolute;
+        left: 25%;
+        top: 80%;
+    }
+
+    .tableOfContents {
+        margin-bottom: 7px;
+        width: 100px;
+        font-size: 1.4vw;
+
+    }
+
+
+    #book {
+        top: 0%;
+        background-image: url();
+    }
+
+    .container {
+        background-image: url(book2.png);
+        background-size: cover;
+        border-radius: 10%;
+        border: 3px solid gold;
+    }
+
+    #container2 {
+        background-image: url(book2.png);
+        background-size: cover;
+
+    }
+
+
+
+
+
+
+
+
+
+
+}
