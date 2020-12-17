@@ -13,6 +13,12 @@ var bigArray = [
         // audioUrl: "ada/ada.m4a"
     },
 
+    {
+        name: "amaya",
+        presentPictureUrl: "amaya/amaya.jpg"
+         audioUrl: "amaya/amaya.m4a"
+    },
+
 
     {
         name: "alexaG",
@@ -57,6 +63,14 @@ var bigArray = [
         presentPictureUrl: "dean/dean.jpg",
         audioUrl: "dean/dean.m4a"
     },
+
+    {
+        name: "emilia",
+        presentPictureUrl: "emilia/emilia.png"
+         audioUrl: "emilia/emilia.m4a"
+    },
+
+
 
     {
         name: "henry",
