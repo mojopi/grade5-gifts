@@ -15,7 +15,7 @@ var bigArray = [
 
     {
         name: "amaya",
-        presentPictureUrl: "amaya/amaya.jpg"
+        presentPictureUrl: "amaya/amaya.jpg",
          audioUrl: "amaya/amaya.m4a"
     },
 
@@ -66,7 +66,7 @@ var bigArray = [
 
     {
         name: "emilia",
-        presentPictureUrl: "emilia/emilia.png"
+        presentPictureUrl: "emilia/emilia.png",
          audioUrl: "emilia/emilia.m4a"
     },
 
