@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <style type="text/css">
+
+
+        #pw{position:relative;
+            width:250px;
+            height:100px;
+            left:-2%;
+            top:10%;}
+
+
+            #button{
+                position:relative;
+/*            width:250px;
+/*            height:100px;
+*/            left:-2%;
+            top:10%;}
+
+
+
+          #lily{
+
+            width:600px; 
+            height:800px;
+            background-image:url("lily0.png");
+                    background-size:contain
+}
+
+
+    </style>
+</head>
+
+<body>
+
+    <center>
+
+
+
+
+        <div id="lily">
+            
+                    <input id="pw"></input>
+                    <a id="link" href=""><button id="button">submit</button></a>
+
+        </div>
+
+
+    </center>
+    <script type="text/javascript">
+   
+
+
+        var input = document.getElementById('pw');
+
+        var submit = document.getElementById('button');
+
+        var link = document.getElementById('link');
+        submit.addEventListener("click", function(){
+
+            if (input.value == "hamster") {
+                link.href="hamster.html";
+
+            }
+
+            if (input.value == "dog") {
+
+                 link.href="dog.html"
+            }
+
+
+            if (input.value == "avatar") {
+
+                 link.href="bigEars.html"
+            }
+
+            if (input.value == "mcu") {
+
+                 link.href="bunny.html"
+            }
+
+            if (input.value == "singing") {
+
+                 link.href="hedgehog.html"
+            }
+
+
+    })
+
+
+
+
+
+    </script>
+</body>
+
+</html>

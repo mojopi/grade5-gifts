@@ -149,6 +149,13 @@ var bigArray = [
     },
 
 
+    {
+        name: "lily",
+        presentPictureUrl: "lily/lily0.png"
+        
+    },
+
+
 
     {
         name: "maiya",
