@@ -1,29 +1,30 @@
 var bigArray = [
 
 
-    {
-        name: "stephanie",
-        presentPictureUrl: "stephanie/stephanie.jpg",
-        audioUrl: "stephanie/stephanie.m4a"
+     {
+        name: "ada",
+        presentPictureUrl: "ada/ada.png",
+        audioUrl: "ada/ada.m4a"
     },
+
 
     {
         name: "alexa",
-        presentPictureUrl: "alexa/alexa.jpg"
-        // audioUrl: "ada/ada.m4a"
+        presentPictureUrl: "alexa/alexa.jpg",
+        audioUrl: "ada/ada.m4a"
     },
 
     {
         name: "amaya",
-        presentPictureUrl: "amaya/amaya.jpg",
-         audioUrl: "amaya/amaya.m4a"
+        presentPictureUrl: "amaya/amaya.png",
+        audioUrl: "amaya/amaya.m4a"
     },
 
 
     {
         name: "alexaG",
         presentPictureUrl: "alexaG/alexaG.png",
-        audioUrl: "ada/ada.m4a"
+        audioUrl: "alexaG/alexaG.m4a"
     },
 
 
@@ -41,9 +42,21 @@ var bigArray = [
     },
 
     {
+        name: "ayah",
+        presentPictureUrl: "ayah/ayah.png",
+        audioUrl: "ayah/ayah.m4a"
+    },
+
+    {
         name: "beatrice",
         presentPictureUrl: "beatrice/beatrice.jpg",
         audioUrl: "beatrice/beatrice.m4a"
+    },
+
+    {
+        name: "ben",
+        presentPictureUrl: "ben/ben.png",
+        audioUrl: "ben/ben.m4a"
     },
 
     {
@@ -59,6 +72,12 @@ var bigArray = [
     },
 
     {
+        name: "danny",
+        presentPictureUrl: "danny/danny.png",
+        audioUrl: "danny/danny.m4a"
+    },
+
+    {
         name: "dean",
         presentPictureUrl: "dean/dean.jpg",
         audioUrl: "dean/dean.m4a"
@@ -67,7 +86,7 @@ var bigArray = [
     {
         name: "emilia",
         presentPictureUrl: "emilia/emilia.png",
-         audioUrl: "emilia/emilia.m4a"
+        audioUrl: "emilia/emilia.m4a"
     },
 
 
@@ -76,6 +95,12 @@ var bigArray = [
         name: "henry",
         presentPictureUrl: "henry/henry.png",
         audioUrl: "henry/henry.m4a"
+    },
+
+     {
+        name: "james",
+        presentPictureUrl: "james/james.png",
+        audioUrl: "james/james.m4a"
     },
 
 
@@ -113,9 +138,20 @@ var bigArray = [
         audioUrl: "shelby/shelby.m4a"
     },
 
+
+
     {
-        name: "nathan",
-        presentPictureUrl: "nathan/nathan.jpg"
+        name: "shiv",
+        presentPictureUrl: "shiv/shiv.png",
+        audioUrl: "shiv/shiv.m4a"
+    },
+
+
+    {
+        name: "nate",
+        presentPictureUrl: "nate/nate.jpg"
+        // audioUrl: "nate/nate.m4a"
+
     },
 
     {
@@ -126,6 +162,25 @@ var bigArray = [
     },
 
     {
+        name: "maxwell",
+        presentPictureUrl: "maxwell/maxwell.png",
+        audioUrl: "maxwell/maxwell.m4a"
+    },
+
+    {
+        name: "nate",
+        presentPictureUrl: "nate/nate.jpg",
+        audioUrl: "nate/nate.m4a"
+    },
+
+
+    {
+        name: "reese",
+        presentPictureUrl: "reese/reese.png",
+        audioUrl: "reese/reese.m4a"
+    },
+
+    {
         name: "taylor",
         presentPictureUrl: "taylor/taylor.jpg",
         audioUrl: "taylor/taylor.m4a"
@@ -133,31 +188,52 @@ var bigArray = [
     },
 
 
- {
+    {
         name: "aria",
         presentPictureUrl: "aria/aria.jpg",
         audioUrl: "aria/aria.m4a"
 
     },
 
-     {
+    {
         name: "dylan",
         presentPictureUrl: "dylan/dylan.png",
         audioUrl: "dylan/dylan.m4a"
     },
 
+    {
+        name: "emilia",
+        presentPictureUrl: "emilia/emilia.png",
+        audioUrl: "emilia/emilia.m4a"
+    },
 
- {
+    {
+        name: "kai",
+        presentPictureUrl: "kai/kai.png",
+        audioUrl: "kai/kai.m4a"
+
+    },
+
+
+    {
         name: "kate",
         presentPictureUrl: "kate/kate.png"
     },
 
 
-    {
-        name: "dylan",
-        presentPictureUrl: "ada/ada.jpg",
-        audioUrl: "ada/ada.m4a"
+   
+
+     {
+        name: "saira",
+        presentPictureUrl: "saira/saira.png",
+        audioUrl: "saira/saira.m4a"
     },
+
+    {
+        name: "stephanie",
+        presentPictureUrl: "stephanie/stephanie.jpg",
+        audioUrl: "stephanie/stephanie.m4a"
+    }
 
 
 
