@@ -1,7 +1,7 @@
 var bigArray = [
 
 
-     {
+    {
         name: "ada",
         presentPictureUrl: "ada/ada.png",
         audioUrl: "ada/ada.m4a"
@@ -14,17 +14,25 @@ var bigArray = [
         audioUrl: "ada/ada.m4a"
     },
 
-    {
-        name: "amaya",
-        presentPictureUrl: "amaya/amaya.png",
-        audioUrl: "amaya/amaya.m4a"
-    },
 
 
     {
         name: "alexaG",
         presentPictureUrl: "alexaG/alexaG.png",
         audioUrl: "alexaG/alexaG.m4a"
+    },
+
+    {
+        name: "amaya",
+        presentPictureUrl: "amaya/amaya.png",
+        audioUrl: "amaya/amaya.m4a"
+    },
+
+    {
+        name: "aria",
+        presentPictureUrl: "aria/aria.jpg",
+        audioUrl: "aria/aria.m4a"
+
     },
 
 
@@ -34,6 +42,9 @@ var bigArray = [
         presentPictureUrl: "arianne/arianne.png",
         audioUrl: "arianne/arianne.m4a"
     },
+
+
+
 
     {
         name: "asher",
@@ -84,6 +95,12 @@ var bigArray = [
     },
 
     {
+        name: "dylan",
+        presentPictureUrl: "dylan/dylan.png",
+        audioUrl: "dylan/dylan.m4a"
+    },
+
+    {
         name: "emilia",
         presentPictureUrl: "emilia/emilia.png",
         audioUrl: "emilia/emilia.m4a"
@@ -97,11 +114,26 @@ var bigArray = [
         audioUrl: "henry/henry.m4a"
     },
 
-     {
+    {
         name: "james",
         presentPictureUrl: "james/james.png",
         audioUrl: "james/james.m4a"
     },
+
+
+    {
+        name: "kai",
+        presentPictureUrl: "kai/kai.png",
+        audioUrl: "kai/kai.m4a"
+
+    },
+
+
+    {
+        name: "kate",
+        presentPictureUrl: "kate/kate.png"
+    },
+
 
 
     {
@@ -117,12 +149,48 @@ var bigArray = [
     },
 
 
+
+    {
+        name: "maiya",
+        presentPictureUrl: "maiya/maiya.png",
+        audioUrl: "maiya/maiya.m4a"
+
+    },
+
+    {
+        name: "maxwell",
+        presentPictureUrl: "maxwell/maxwell.png",
+        audioUrl: "maxwell/maxwell.m4a"
+    },
+
+
+
+
+
+    {
+        name: "nate",
+        presentPictureUrl: "nate/nate.jpg",
+        audioUrl: "nate/nate.m4a"
+    },
+
     {
         name: "noa",
         presentPictureUrl: "noa/noa.jpg",
         audioUrl: "noa/noa.m4a"
     },
 
+
+    {
+        name: "reese",
+        presentPictureUrl: "reese/reese.png",
+        audioUrl: "reese/reese.m4a"
+    },
+
+    {
+        name: "saira",
+        presentPictureUrl: "saira/saira.png",
+        audioUrl: "saira/saira.m4a"
+    },
 
     {
         name: "sanaa",
@@ -146,94 +214,27 @@ var bigArray = [
         audioUrl: "shiv/shiv.m4a"
     },
 
-
     {
-        name: "nate",
-        presentPictureUrl: "nate/nate.jpg"
-        // audioUrl: "nate/nate.m4a"
-
+        name: "stephanie",
+        presentPictureUrl: "stephanie/stephanie.jpg",
+        audioUrl: "stephanie/stephanie.m4a"
     },
 
-    {
-        name: "maiya",
-        presentPictureUrl: "maiya/maiya.png",
-        audioUrl: "maiya/maiya.m4a"
-
-    },
-
-    {
-        name: "maxwell",
-        presentPictureUrl: "maxwell/maxwell.png",
-        audioUrl: "maxwell/maxwell.m4a"
-    },
-
-    {
-        name: "nate",
-        presentPictureUrl: "nate/nate.jpg",
-        audioUrl: "nate/nate.m4a"
-    },
-
-
-    {
-        name: "reese",
-        presentPictureUrl: "reese/reese.png",
-        audioUrl: "reese/reese.m4a"
-    },
 
     {
         name: "taylor",
         presentPictureUrl: "taylor/taylor.jpg",
         audioUrl: "taylor/taylor.m4a"
 
-    },
-
-
-    {
-        name: "aria",
-        presentPictureUrl: "aria/aria.jpg",
-        audioUrl: "aria/aria.m4a"
-
-    },
-
-    {
-        name: "dylan",
-        presentPictureUrl: "dylan/dylan.png",
-        audioUrl: "dylan/dylan.m4a"
-    },
-
-    {
-        name: "emilia",
-        presentPictureUrl: "emilia/emilia.png",
-        audioUrl: "emilia/emilia.m4a"
-    },
-
-    {
-        name: "kai",
-        presentPictureUrl: "kai/kai.png",
-        audioUrl: "kai/kai.m4a"
-
-    },
-
-
-    {
-        name: "kate",
-        presentPictureUrl: "kate/kate.png"
-    },
-
-
-   
-
-     {
-        name: "saira",
-        presentPictureUrl: "saira/saira.png",
-        audioUrl: "saira/saira.m4a"
-    },
-
-    {
-        name: "stephanie",
-        presentPictureUrl: "stephanie/stephanie.jpg",
-        audioUrl: "stephanie/stephanie.m4a"
     }
+
+
+
+
+
+
+
+
 
 
 
