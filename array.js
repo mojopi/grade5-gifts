@@ -76,6 +76,12 @@ var bigArray = [
         audioUrl: "clara/clara.m4a"
     },
 
+     {
+        name: "charlotte",
+        presentPictureUrl: "charlotte/charlotte.png",
+        // audioUrl: "reese/reese.m4a"
+    },
+
     {
         name: "cooper",
         presentPictureUrl: "cooper/cooper.png",
@@ -155,6 +161,12 @@ var bigArray = [
         
     },
 
+     {
+        name: "lorenzo",
+        presentPictureUrl: "lorenzo/lorenzo.png",
+        // audioUrl: "lorenzo/lorenzo.m4a"
+    },
+
 
 
     {
@@ -162,6 +174,12 @@ var bigArray = [
         presentPictureUrl: "maiya/maiya.png",
         audioUrl: "maiya/maiya.m4a"
 
+    },
+
+       {
+        name: "marcellus",
+        presentPictureUrl: "marcellus/marcellus.png",
+        // audioUrl: "reese/reese.m4a"
     },
 
     {
@@ -184,6 +202,12 @@ var bigArray = [
         name: "noa",
         presentPictureUrl: "noa/noa.jpg",
         audioUrl: "noa/noa.m4a"
+    },
+
+    {
+        name: "rafeala",
+        presentPictureUrl: "rafeala/rafeala.png",
+        // audioUrl: "reese/reese.m4a"
     },
 
 
@@ -225,6 +249,12 @@ var bigArray = [
         name: "stephanie",
         presentPictureUrl: "stephanie/stephanie.jpg",
         audioUrl: "stephanie/stephanie.m4a"
+    },
+
+       {
+        name: "steph",
+        presentPictureUrl: "steph/steph.png",
+        // audioUrl: "reese/reese.m4a"
     },
 
 
